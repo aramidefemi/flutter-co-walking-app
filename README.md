@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 This section contains details about the project structure.
 
 Under lib folder, we have the following:
-1. Constants: this use contain all static strings like a string to a route
+1. Constants: this should contain all static strings like a string to a route
 2. Models: this should contain all the data model
 3. Services: this is where we put classes and method interacting with firebase
 4. UI: We put everything concerning the user interface in here.
