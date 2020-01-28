@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068448395479",
+    "firebase_url": "https://co-walking-app.firebaseio.com",
+    "project_id": "co-walking-app",
+    "storage_bucket": "co-walking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068448395479:android:74bd5d584070eff86a4092",
+        "android_client_info": {
+          "package_name": "com.example.flutter_co_walking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068448395479-tu2gnp3rugjjng5j719mgdrqfkjk00s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_co_walking_app",
+            "certificate_hash": "e46d007c571422e5bc12381cf1afd6222565348c"
+          }
+        },
+        {
+          "client_id": "1068448395479-trp3onqauoo5uk5qbcn8d155avl6ofa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYOY2-c9n00f4mFC4aYO__eYMF1Gj_Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068448395479-trp3onqauoo5uk5qbcn8d155avl6ofa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

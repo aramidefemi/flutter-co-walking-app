@@ -7,5 +7,6 @@ void main() => runApp(MaterialApp(
         ThemeData(primaryColor: Colors.deepOrangeAccent, accentColor: Colors.white),
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
-    ));
+   )
+);
 

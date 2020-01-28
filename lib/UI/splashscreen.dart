@@ -24,7 +24,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   onDoneLoading() async {
     Navigator.of(context)
-        .push(MaterialPageRoute(builder: (context) => SecondScreen()));
+        .push(MaterialPageRoute(builder: (context) => HomeScreen()));
   }
 
   @override
