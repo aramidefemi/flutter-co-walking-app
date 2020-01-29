@@ -159,7 +159,7 @@ class _MapState extends State<Map> {
     void createRoute(String encondedPoly) {
       setState(() {
         _polyLines.add(Polyline(polylineId: PolylineId(_lastPosition.toString()),
-        width: 10,
+        width: 5,
         points: convertToLatLng(decodePoly(encondedPoly)),
         color: Colors.red,
         ));
